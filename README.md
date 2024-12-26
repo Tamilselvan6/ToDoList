@@ -27,9 +27,9 @@ A simple and interactive To-Do List application built using **HTML**, **CSS**, a
    git clone https://github.com/Tamilselvan6/daily-javascript-tasks.git
    ```
 2. Navigate to the project folder:
-  ```bash
-  cd todo-list
-  ```
+   ```bash
+   cd todo-list
+   ```
 3. Open `index.html` in your browser to run the app.
 
 ---
